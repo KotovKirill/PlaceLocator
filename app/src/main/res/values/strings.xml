@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">PlaceLocator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location">Location</string>
+
+    <string name="menu_navigation_view_help">Help</string>
+    <string name="menu_navigation_view_feedback">Feedback</string>
+    <string name="menu_navigation_view_settings">Settings</string>
+    <string name="sub_menu_navigation_view_more">More</string>
+    <string name="sub_menu_navigation_view_assess">Assess</string>
+    <string name="sub_menu_navigation_view_about_us">About us</string>
+    <string name="sub_menu_navigation_view_contact_author">Contact author</string>
+
+    <string name="action_bar_drawer_toggle_open">Open</string>
+    <string name="action_bar_drawer_toggle_close">Close</string>
+
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="content_about_us_text_version">Version 1.01.121</string>
+    <string name="content_about_us_text_copyright">© 2016 SQUVAO</string>
+    <string name="content_about_us_text_rights">All rights reserved</string>
+
+    <string name="main_activity_navigation_item_feedback_email">12ase@kings-school.co.uk</string>
+    <string name="main_activity_navigation_item_feedback_message">Your message...</string>
+    <string name="main_activity_navigation_item_feedback_title">Send Mail</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_help">Help</string>
+
+    <string name="content_main_text_view_larwg">Would you like to start</string>
+    <string name="content_main_button_play">Play</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="content_settings_button_more_information">Edit information</string>
+    <string name="content_settings_button_common">Common</string>
+    <string name="content_settings_button_notifications">Notifications</string>
+    <string name="content_settings_button_reset_settings">Reset</string>
+    <string name="content_settings_button_account">Account</string>
+    <string name="content_settings_about">About</string>
+
+    <string name="content_settings_button_exit">Exit</string>
+
+    <string name="title_activity_game">Map</string>
+    <string name="content_main_text_view_larwg2">your journey?</string>
+
+    <string name="title_activity_common_settings">CommonSettings</string>
+    <string name="title_activity_notifications">Notifications</string>
+    <string name="title_activity_account">Account</string>
+    <string name="text_view_view">View</string>
+    <string name="button_text_theme">Application theme</string>
+    <string name="button_text_full_screen">Full-screen application</string>
+    <string name="button_text_language">Language</string>
+    <string name="text_view_help">Help</string>
+    <string name="button_text_help">Help</string>
+
+    <string name="title_activity_authorisation">Authorisation</string>
+    <string name="content_authorisation_login">Login</string>
+    <string name="content_authorisation_password">Password</string>
+    <string name="content_authorisation_button_enter">Enter</string>
+    <string name="title_activity_start">PlaceLocator</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="content_sign_in_button_sign_in">Sign in</string>
+    <string name="title_activity_edit_account_settings">EditAccountSettings</string>
+    <string name="content_settings_text_no_changed">Not Selected</string>
+    <string name="content_settings_edit_text_user_name_hint">First Name</string>
+    <string name="content_settings_text_user_secname_hint">Name</string>
+    <string name="content_main_radio_button_male">Male</string>
+    <string name="content_main_radio_button_female">Female</string>
+    <string name="content_settings_biometric_data">Common</string>
+    <string name="content_settings_button_date_born">Date born</string>
+    <string name="content_settings_text_address">City</string>
+    <string name="content_settings_text_input_address">Input city</string>
+    <string name="content_settings_button_mail">E-Mail</string>
+    <string name="content_settings_text_input_mail">Input E-Mail</string>
+    <string name="content_settings_alert_dialog_title">Exit...</string>
+    <string name="content_settings_alert_dialog_message">Exit from account?</string>
+    
+    <string name="location_activity_st_augustine_abbey_title">St.Augustine\’s Abbey</string>
+    <string name="location_activity_canterbury_heritage_museum_title">Canterbury Heritage Museum</string>
+    <string name="location_activity_westgate_title">Westgate</string>
+    <string name="location_activity_kent_museum_of_freemasonry_title">Kent Museum of Freemasonry </string>
+    <string name="location_activity_canterbury_roman_museum_title">Canterbury Roman Museum</string>
+    <string name="location_activity_canterbury_castle_title">Canterbury Castle</string>
+    <string name="location_activity_canterbury_cathedral_title">Canterbury Cathedral</string>
+    <string name="location_activity_chilham_castle_title">Chilham Castle</string>
+    <string name="location_activity_howlers_wild_animal_park_title">Howlers Wild Animal Park</string>
+    <string name="location_activity_beaney_house_of_art_and_knowledge_title">Beaney House of Art and Knowledge</string>
+    <string name="location_activity_house_title">House</string>
+
+
+    <string name="location_activity_st_augustine_abbey">
+        St Augustine\'s Abbey was a Benedictine monastery in Canterbury, Kent, England. The abbey was founded in 598 and functioned as a monastery until its dissolution in 1538 during the English Reformation.
+    </string>
+    <string name="location_activity_canterbury_heritage_museum">
+        The Canterbury Heritage Museum, is a museum in Stour Street, Canterbury, South East England, telling the history of the city. It is housed in the 12th century Poor Priests\' Hospital next to the River Stour.
+    </string>
+    <string name="location_activity_westgate">
+        The Westgate is a medieval gatehouse in Canterbury, Kent, England. This 60-foot high western gate of the city wall is the largest surviving city gate in England.
+    </string>
+    <string name="location_activity_kent_museum_of_freemasonry">
+        The Kent Museum of Freemasonry, is a museum in St Peters Place, Canterbury, Kent with a rare collection of masonic exhibits of national and international importance.
+    </string>
+    <string name="location_activity_canterbury_roman_museum">
+        The Canterbury Roman Museum in Canterbury, Kent, houses a Roman pavement which is a scheduled monument, in the remains of a Roman courtyard house which itself is a grade I listed building.
+    </string>
+    <string name="location_activity_canterbury_castle">
+        Canterbury Castle is a Norman Castle in Canterbury, Kent, England. It is a five-minute walk from Canterbury East Station and main bus station around City Wall. Canterbury Castle was one of the three original Royal castles of Kent.
+    </string>
+    <string name="location_activity_canterbury_cathedral">
+        Canterbury Cathedral in Canterbury, Kent, is one of the oldest and most famous Christian structures in England. It forms part of a World Heritage Site.
+    </string>
+    <string name="location_activity_chilham_castle">
+        Chilham Castle is a manor house and keep in the village of Chilham, between Ashford and Canterbury in the county of Kent, England.
+    </string>
+    <string name="location_activity_howlers_wild_animal_park">
+        Howletts Wild Animal Park was set up as a private zoo in 1957 by John Aspinall near Canterbury, Kent. The animal collection was opened to the public in 1975.
+    </string>
+    <string name="location_activity_beaney_house_of_art_and_knowledge">
+        The Beaney House of Art and Knowledge is the central museum, library and art gallery of the city of Canterbury, Kent, England. It is housed in a Grade II listed building.
+    </string>
+    <string name="location_activity_house">Howletts Wild Animal Park was set up as a private zoo in 1957 by John Aspinall near Canterbury, Kent. The animal collection was opened to the public in 1975.</string>
+
+    <string name="activity_location_more_about_place">More about place...</string>
+
+</resources>
